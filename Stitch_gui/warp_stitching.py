@@ -24,7 +24,7 @@ class warp_stitch(QMainWindow,Ui_MainWindow):
         
         # self.pathh = Ui_MainWindow()
         # self.path = self.pathh.Browse_folder()
-        
+
 
     def on_mouse_click(self,event, x, y, flags, params):
         if event == cv2.EVENT_LBUTTONDOWN:

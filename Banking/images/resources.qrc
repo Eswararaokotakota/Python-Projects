@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="images">
+    <file>x-mark-5-256.png</file>
+    <file>icons8-warning-96.png</file>
+    <file>x-mark-3-256.png</file>
+    <file>cancel.png</file>
+    <file>icons8-user-24.png</file>
+    <file>checklist.png</file>
+    <file>rupee.jpg</file>
+    <file>rupee1.jpg</file>
+    <file>icons8-rupee-96.png</file>
+  </qresource>
+</RCC>
